@@ -1,7 +1,11 @@
 # Maltimart Ecommerce
 
-## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
+ What technologies were used?
+react.js (create-react-app)
+react-dom-router
+react-bootstrap
+state management using Redux Toolki
+
 
 ## 😎 Features
 
@@ -19,13 +23,9 @@ https://multimart-ecommerce.onrender.com
 - react-bootstrap
 - state management using Redux Toolkit
 
-## How can you clone and tweak this project?
 
-From your command line, first clone this repo:
 
-```
-# Clone this repository
-$ https://github.com/0mar-helal/multimart-react-ecommerce.git
+
 
 # Go into the repository
 $ cd multimart-react-ecommerce
